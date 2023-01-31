@@ -2,4 +2,4 @@
 
 var1=$1
 
-sudo apt install $var -y
+sudo apt install "$var1" -y
